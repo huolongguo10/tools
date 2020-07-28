@@ -1,0 +1,7 @@
+﻿  math.cpp
+D:\github\tools\onetool\kernel、\math.cpp(5,21): warning C4273: “calc”: dll 链接不一致
+D:\github\tools\onetool\kernel、\functions.h(25,24): message : 参见“calc”的前一个定义
+  string.cpp
+  正在生成代码...
+    正在创建库 D:\github\tools\onetool\Debug\kernel.lib 和对象 D:\github\tools\onetool\Debug\kernel.exp
+  kernel、.vcxproj -> D:\github\tools\onetool\Debug\kernel.dll
