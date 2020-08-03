@@ -1,0 +1,10 @@
+D:\github\tools\谁是卧底\谁是卧底uiwindows\bin\Debug\谁是卧底uiwindows.exe.config
+D:\github\tools\谁是卧底\谁是卧底uiwindows\bin\Debug\谁是卧底uiwindows.exe
+D:\github\tools\谁是卧底\谁是卧底uiwindows\bin\Debug\谁是卧底uiwindows.pdb
+D:\github\tools\谁是卧底\谁是卧底uiwindows\obj\Debug\谁是卧底uiwindows.csprojAssemblyReference.cache
+D:\github\tools\谁是卧底\谁是卧底uiwindows\obj\Debug\谁是卧底uiwindows.Form1.resources
+D:\github\tools\谁是卧底\谁是卧底uiwindows\obj\Debug\谁是卧底uiwindows.Properties.Resources.resources
+D:\github\tools\谁是卧底\谁是卧底uiwindows\obj\Debug\谁是卧底uiwindows.csproj.GenerateResource.cache
+D:\github\tools\谁是卧底\谁是卧底uiwindows\obj\Debug\谁是卧底uiwindows.csproj.CoreCompileInputs.cache
+D:\github\tools\谁是卧底\谁是卧底uiwindows\obj\Debug\谁是卧底uiwindows.exe
+D:\github\tools\谁是卧底\谁是卧底uiwindows\obj\Debug\谁是卧底uiwindows.pdb
